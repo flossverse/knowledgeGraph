@@ -5,7 +5,6 @@
  <link type="text/css" href="static/css/style.css" rel="stylesheet"></link>
  <link type="text/css" href="static/css/custom.css" rel="stylesheet"></link>
  <link type="text/css" href="static/css/export.css" rel="stylesheet"></link>
- <link type="text/css" href="https://cdn.jsdelivr.net/gh/blueteafrog/logseq-gunmetal-theme/gunmetal.css" rel="stylesheet">
  <link href="static/img/logo.png" type="image/png" rel="shortcut icon"></link>
  <link href="static/img/logo.png" sizes="192x192" rel="shortcut icon"></link>
  <link href="static/img/logo.png" rel="apple-touch-icon"></link>
