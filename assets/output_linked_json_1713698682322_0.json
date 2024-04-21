@@ -523,16 +523,16 @@
 				"@id": "https://www.narrativegoldmine.com/metaverse#MetaverseEntity"
 			},
 			{
-				"@id": "_:Nd1d7bb2439c64a43bef6e9444c224fc0"
+				"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity"
 			},
 			{
-				"@id": "_:N39842ed8fcbd4b98af3d3a2ab5434518"
+				"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity"
 			},
 			{
-				"@id": "_:N73db8cf54252458eb58b6d9854bb9f0f"
+				"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity"
 			},
 			{
-				"@id": "_:Nb066e9bbd5a24f8ab89d10d31b81631a"
+				"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity"
 			}
 		],
 		"properties": {
@@ -571,7 +571,7 @@
 		}
 	},
     {
-		"@id": "_:Nd1d7bb2439c64a43bef6e9444c224fc0",
+		"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity",
 		"http://www.w3.org/2002/07/linkedjson#onProperty": [{
 			"@id": "https://www.narrativegoldmine.com/metaverse#hasSkillProfile"
 		}],
@@ -580,7 +580,7 @@
 		}]
 	},
 	{
-		"@id": "_:N39842ed8fcbd4b98af3d3a2ab5434518",
+		"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity",
 		"http://www.w3.org/2002/07/linkedjson#onProperty": [{
 			"@id": "https://www.narrativegoldmine.com/metaverse#participatesIn"
 		}],
@@ -589,7 +589,7 @@
 		}]
 	},
 	{
-		"@id": "_:N73db8cf54252458eb58b6d9854bb9f0f",
+		"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity",
 		"http://www.w3.org/2002/07/linkedjson#onProperty": [{
 			"@id": "https://www.narrativegoldmine.com/metaverse#hasPrivacySetting"
 		}],
@@ -598,7 +598,7 @@
 		}]
 	},
 	{
-		"@id": "_:Nb066e9bbd5a24f8ab89d10d31b81631a",
+		"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity",
 		"http://www.w3.org/2002/07/linkedjson#onProperty": [{
 			"@id": "https://www.narrativegoldmine.com/metaverse#hasReputationScore"
 		}],
@@ -615,15 +615,15 @@
 				"@id": "https://www.narrativegoldmine.com/metaverse#MetaverseEntity"
 			},
 			{
-				"@id": "_:N3e1b8e7ea91248cfa8b3dc85267be788"
+				"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity"
 			},
 			{
-				"@id": "_:N067665076d9f4d338cb8cdb730609365"
+				"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity"
 			}
 		]
 	},
 	{
-		"@id": "_:N3e1b8e7ea91248cfa8b3dc85267be788",
+		"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity",
 		"http://www.w3.org/2002/07/linkedjson#onProperty": [{
 			"@id": "https://www.narrativegoldmine.com/metaverse#hasPolicy"
 		}],
@@ -632,7 +632,7 @@
 		}]
 	},
 	{
-		"@id": "_:N067665076d9f4d338cb8cdb730609365",
+		"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity",
 		"http://www.w3.org/2002/07/linkedjson#onProperty": [{
 			"@id": "https://www.narrativegoldmine.com/metaverse#governedBy"
 		}],
@@ -732,15 +732,15 @@
 				"@id": "https://www.narrativegoldmine.com/metaverse#MetaverseEntity"
 			},
 			{
-				"@id": "_:N7734f53c103846fba0f7f099a17df575"
+				"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity"
 			},
 			{
-				"@id": "_:Nd9e50a6e98a54130bbc92b9a80ca3bfb"
+				"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity"
 			}
 		]
 	},
 	{
-		"@id": "_:N7734f53c103846fba0f7f099a17df575",
+		"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity",
 		"http://www.w3.org/2002/07/linkedjson#onProperty": [{
 			"@id": "https://www.narrativegoldmine.com/metaverse#regulatedBy"
 		}],
@@ -749,7 +749,7 @@
 		}]
 	},
 	{
-		"@id": "_:Nd9e50a6e98a54130bbc92b9a80ca3bfb",
+		"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity",
 		"http://www.w3.org/2002/07/linkedjson#onProperty": [{
 			"@id": "https://www.narrativegoldmine.com/metaverse#hasMarketplace"
 		}],
@@ -871,7 +871,7 @@
 		}]
 	},
 	{
-		"@id": "_:N3649afbbaf7d4546a49d4097059d55f4",
+		"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity",
 		"linkedjson:disjointClasses": [{
 				"@id": "https://www.narrativegoldmine.com/metaverse#AIAgent"
 			},
@@ -912,10 +912,10 @@
 		}]
 	},
 	{
-		"@id": "https://www.narrativegoldmine.com/metaverse#ShadingVariantSet",
+		"@id": "https://www.narrativegoldmine.com/metaverse#ModelVariantSet",
 		"@type": "Class",
 		"label": "Shading Variant Set",
-		"comment": "Represents a USD variant set specifically for shading variations.",
+		"comment": "Represents a USD variant set specifically for model variations.",
 		"subClassOf": {
 			"@id": "https://www.narrativegoldmine.com/metaverse#SceneObject"
 		},
@@ -924,7 +924,7 @@
 				"@id": "https://www.narrativegoldmine.com/metaverse#variants",
 				"@type": "Property",
 				"range": "Array",
-				"comment": "An array of variant names within the shading variant set."
+				"comment": "An array of variant names within the model variant set."
 			}
 		}
 	},
@@ -950,7 +950,7 @@
 				"@id": "https://www.narrativegoldmine.com/metaverse#MetaverseEntity"
 			},
 			{
-				"@id": "_:Nd4d4aebc6eb544d3b68aa1486a9f53bc"
+				"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity"
 			}
 		]
 	},
@@ -960,11 +960,11 @@
 				"@id": "https://www.narrativegoldmine.com/metaverse#MetaverseEntity"
 			},
 			{
-				"@id": "_:Nd4d4aebc6eb544d3b68aa1486a9f53bc"
+				"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity"
 			}
 		],
 		"linkedjson:restriction": [{
-			"@id": "_:Nd4d4aebc6eb544d3b68aa1486a9f53bc",
+			"@id": "bip85:64_byte_id_and_derivation_path_for_metaverse_entity",
 			"linkedjson:onProperty": {
 				"@id": "https://www.narrativegoldmine.com/metaverse#hasOwner"
 			},
