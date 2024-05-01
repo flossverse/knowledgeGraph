@@ -1,0 +1,16 @@
+{
+  "names": {
+    "biscuits": "bfcf20d472f0fb143b23cb5be3fa0a040d42176b71f73ca272f6912b1d62a452"
+  },
+  "relays": {
+    "bfcf20d472f0fb143b23cb5be3fa0a040d42176b71f73ca272f6912b1d62a452": [
+      "wss://mindmachine.688.org/",
+      "wss://nostr-pub.semisol.dev/",
+      "wss://nostr-pub.wellorder.net/",
+      "wss://nostr.plebchain.org/",
+      "wss://relay.damus.io/",
+      "wss://relay.orangepill.dev/",
+      "wss://relay.snort.social/"
+    ]
+  }
+}
