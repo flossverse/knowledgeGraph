@@ -1,0 +1,12 @@
+include: [".well-known"]
+
+defaults:
+  - scope:
+      path: ".well-known/nostr.json"
+    values:
+      layout: none
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+
