@@ -270,4 +270,3 @@ kitsObserver.observe(document.getElementById("app-container"), {
     attributeFilter: ["class"]
 });
 Msg.ofStatus("kits ok", "success");
-
